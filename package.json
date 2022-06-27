@@ -1,6 +1,6 @@
 {
     "name": "keycloakify-demo-app",
-    "version": "0.4.9",
+    "version": "0.6.9",
     "description": "A demo project for keycloakify",
     "repository": {
         "type": "git",
