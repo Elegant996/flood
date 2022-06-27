@@ -73,8 +73,6 @@ function KcApp() {
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     {
-      kcContext === undefined ?
-        <App /> :
         <KcApp />
     }
   </StrictMode>
